@@ -17,14 +17,14 @@
 
 - 💬 Ask me about **PHP, Python, JS, MySQL, Graphics Design**
 
-- 📫 How to reach me **developer@omugatvc.ac.ke**
+- 📫 Reach me at **developer@omugatvc.ac.ke**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.goognle.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[100DaysOfCode](https://github.com/pacheko123/100DaysOfCode)</code>:hourglass:     
-<code>[Face Mask Detection](https://github.com/pacheko123/Face-Mask-Detection)</code>:mask:  
-<code>[GirlScript Twitter Bot](https://github.com/pacheko123/Girlscript-Twitter-Bot)</code>:robot:     
+<code>[Geotraveller](https://github.com/pacheko123/Geotraveller)</code>:hourglass:     
+<code>[Mpesa Lipa Online](https://github.com/pacheko123/Lipa-Na-Mpesa-Online)</code>:mask:  
+<code>[Python Hash SCript](https://github.com/pacheko123/python-hash-script)</code>:robot:     
 
 
 
