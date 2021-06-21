@@ -5,7 +5,7 @@
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://pacheko123.github.io/):sparkles:
 
-<p align="left"> <img src="https://komaresv.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+<!-- <p align="left"> <img src="https://komaresv.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 
 <!-- ![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png) -->
 
