@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pacheko</h1>
 <h3 align="center">git commit -m "Solving problems digitally is fun"</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://pacheko123.github.io/):sparkles:
+## Wanna stalk my website:question::point_right: [Click Here](https://pacheko123.github.io/site):sparkles:
 
 <!-- <p align="left"> <img src="https://komaresv.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 
@@ -12,13 +12,9 @@
 <p align="left"> <a href="https://twitter.com/patrickoluochx" target="blank"><img src="https://img.shields.io/twitter/follow/patrickoluochx?logo=twitter&style=for-the-badge" alt="Pacheko" /></a> </p>
 
 - 🌱 I’m currently learning about **Mongo DB and Apache Spark**
-
 - 👨‍💻 All about me is available at [My Website](https://pacheko123.github.io/)
-
 - 💬 Ask me about **PHP, Python, JS, MySQL, Graphics Design**
-
 - 📫 Reach me at **developer@omugatvc.ac.ke**
-
 - 📄 Know about my work & experiences [My Resume](https://drive.goognle.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
