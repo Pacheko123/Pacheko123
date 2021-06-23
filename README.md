@@ -1,9 +1,9 @@
 
 
-extra_javascript:
+<!-- extra_javascript:
    <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
 
-    <script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script>
+    <script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script> -->
 
 
 <h2 align="center">Hi 👋, I'm Pacheko</h2>
