@@ -1,7 +1,8 @@
 
 
-
+extra_javascript:
    <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
+
     <script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script>
 
 
