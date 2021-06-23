@@ -1,10 +1,10 @@
 
 
-<head>  
+
    <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
     <script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script>
 
-</head>
+
 <h2 align="center">Hi 👋, I'm Pacheko</h2>
 <h3 align="center">git commit -m "Solving problems digitally is fun"</h3>
 
