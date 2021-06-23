@@ -4,10 +4,7 @@
    <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
     <script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script>
 
-Donate Button
-Goal Meter
-Donor Wall
-Link to Donation Page</head>
+</head>
 <h2 align="center">Hi 👋, I'm Pacheko</h2>
 <h3 align="center">git commit -m "Solving problems digitally is fun"</h3>
 
@@ -51,6 +48,6 @@ Link to Donation Page</head>
 <p><a href="https://www.buymeacoffee.com/pacheko"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pacheko" /></a></p> -->
 
  <h3 align="left">Support:</h3>
-<p><a href="https://donorbox.org/pacheko-support"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pacheko" /></a></p> 
+<p><a class="custom-dbox-popup" href="https://donorbox.org/pacheko-support"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pacheko" /></a></p> 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chandrikadeb7&show_icons=true&locale=en" alt="chandrikadeb7" /></p> -->
