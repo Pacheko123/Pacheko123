@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/patrickoluochx" target="blank"><img src="https://img.shields.io/twitter/follow/patrickoluochx?logo=twitter&style=for-the-badge" alt="Pacheko" /></a> </p>
 
 - 🌱 I’m currently learning about **Mongo DB and Apache Spark**
-- 👨‍💻 All about me is available at [My Website](https://pacheko123.github.io/)
+- 👨‍💻 All about me is available at [My portfolio web](https://pacheko123.github.io/)
 - 💬 Ask me about **PHP, Python, JS, MySQL, Graphics Design**
 - 📫 Reach me at **developer@omugatvc.ac.ke**
 - 📫 Follow my blog posts [here](https://pacheko.medium.com)
