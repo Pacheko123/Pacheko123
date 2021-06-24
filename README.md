@@ -9,7 +9,8 @@
 <h2 align="center">Hi 👋, I'm Pacheko</h2>
 <h3 align="center">git commit -m "Solving problems digitally is fun"</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://pacheko123.github.io/site):sparkles:
+<!-- ### Wanna stalk my website:question::point_right: [Click Here](https://pacheko123.github.io/site) -->
+:sparkles:
 
 <!-- <p align="left"> <img src="https://komaresv.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 
@@ -24,15 +25,15 @@
 - 📫 Follow my blog posts [here](https://pacheko.medium.com)
 - 📄 Know about my work & experiences [My Resume](https://drive.goognle.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
-### What are my featured projects:question::rocket:
+### My featured projects:rocket:
 <code>[Geotraveller](https://github.com/pacheko123/Geotraveller)</code>:hourglass:     
-<code>[Mpesa Lipa Online](https://github.com/pacheko123/Lipa-Na-Mpesa-Online)</code>:mask:  
+<code>[Mpesa Lipa Online](https://github.com/pacheko123/Lipa-Na-Mpesa-Online)</code>  
 <code>[Python Hash SCript](https://github.com/pacheko123/python-hash-script)</code>:robot:     
 
 
 
-### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+<!-- ### What can I help with:question::cyclone:
+<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin: -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
