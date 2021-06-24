@@ -21,6 +21,7 @@
 - 👨‍💻 All about me is available at [My Website](https://pacheko123.github.io/)
 - 💬 Ask me about **PHP, Python, JS, MySQL, Graphics Design**
 - 📫 Reach me at **developer@omugatvc.ac.ke**
+- 📫 Follow my blog posts [here](https://pacheko.medium.com)
 - 📄 Know about my work & experiences [My Resume](https://drive.goognle.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
