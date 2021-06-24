@@ -6,7 +6,7 @@
     <script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script> -->
 
 
-<h2 align="center">Hi 👋, I'm Pacheko</h2>
+<h2 align="center">Hi 👋, I'm Pacheko.</h2>
 <h4 align="center">git commit -m "Solving problems digitally is fun"</h4>
 
 <!-- ### Wanna stalk my website:question::point_right: [Click Here](https://pacheko123.github.io/site) -->
