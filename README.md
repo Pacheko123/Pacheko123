@@ -39,7 +39,7 @@
 <!-- <a href="https://codepen.io/chandrikadeb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a> -->
 <!-- <a href="https://dev.to/chandrikadeb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chandrikadeb7" height="30" width="40" /></a> -->
 <a href="https://twitter.com/patrickoluochx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pacheko" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@chandrikadeb7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chandrikadeb7" height="30" width="40" /></a> -->
+<a href="https://pacheko.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pacheko" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/channel/UCZOZbzPYGYQV80BtVMqsRmg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codeher" height="30" width="40" /></a> -->
 </p>
 
